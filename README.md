@@ -94,7 +94,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![Shared Memory Output](ex4.png)
+![reader-writer Output](images/ex4.png)
 
 
 
